@@ -1,6 +1,6 @@
 ﻿using System;
 /*
- * author: Duvall Pinkney
+ * author: Duvall Pinkney 12/25/2018
  * email: Duvall.Pinkney@gmail.com
  * Research several car-pooling websites. Create an app that
 calculates your daily driving cost, so that you can estimate how much money could be saved by car
